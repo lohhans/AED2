@@ -66,6 +66,6 @@ com a < b < c
 
 <hr>
 
-Estruturas desenvolvidas confirme orientação do Prof. Rian Gabriel Pinheiro, UAG-UFRPE.
+Estruturas desenvolvidas conforme orientação do Prof. Rian Gabriel Pinheiro, UAG-UFRPE (2018.1).
 
 [Instruções de implementação](https://drive.google.com/open?id=1tpwxkaDFSJ5MnVNOOAo0HI9fWUe0q7dv)

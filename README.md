@@ -1,4 +1,4 @@
-# Algoritmos de AED2 - 2018.1
+# Algoritmos e Estruturas de Dados 2 - 2018.1
 
 ## Estruturas de dados
 
